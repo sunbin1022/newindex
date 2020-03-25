@@ -1,0 +1,93 @@
+*{  
+    margin: 0;  
+    padding: 0;  
+    font-family:"Microsoft YaHei";
+} 
+header{
+	width: 100%;
+	height: 0.8rem;
+	color: #fff;
+	position: fixed;
+	line-height: 0.8rem;
+	text-align: center;
+	background-color: #454954;
+	font-weight: bold;
+	font-size: 0.38rem;
+	overflow: hidden;
+}
+.bigbox{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	color: #232B2A;
+	padding-top: 0.8rem;
+}
+a{
+	width: 50%;
+	height: 3.38rem;
+	float: left;
+	display: block;
+	text-decoration: none;
+}
+a:active { 
+	background-color: #FEDB0F;
+	color: #fff;
+} 
+
+a:nth-child(1){
+	background-color: #FAFAFA;
+}
+a:nth-child(2){
+	background-color: #EBEBEB;
+}
+a:nth-child(3){
+	background-color: #EEEEEE;
+}
+a:nth-child(4){
+	background-color: #FAFAFA;
+}
+a:nth-child(5){
+	background-color: #FAFAFA;
+}
+a:nth-child(6){
+	background-color: #D0D7DF;
+}
+a:nth-child(7){
+	background-color: #EBEFF2;
+}
+a:nth-child(8){
+	background-color: #E1E1E1;
+}
+img{
+	display: block;
+	margin: 0.6rem auto 0.2rem;
+}
+.imgone{
+	width: 1.1rem;
+	height: 1.1rem;
+}
+.imgtwo{
+	width: 1.1rem;
+	height: 0.9rem;
+	margin: 0.76rem auto 0.2rem;
+}
+.imgthree{
+	width: 1.1rem;
+	height: 1.2rem;
+	margin: 0.5rem auto 0.2rem;
+}
+.txtone{
+	display: block;
+	text-align: center;
+	color: #222C2B;
+	font-size: 0.34rem;
+	font-weight: bold;
+	margin: 0.1rem;
+}
+.txttwo{
+	display: block;
+	text-align: center;
+	color: #222C2B;
+	font-size: 0.2rem;
+	font-style: normal;
+}
